@@ -1,2 +1,2 @@
 #!/bin/bash
-/usr/local/sbin:action
+PATH=$PATH:/action
